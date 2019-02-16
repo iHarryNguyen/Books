@@ -1,5 +1,5 @@
 # Books
-A list of books/tutorials that I will continually add to that I will read throughout my career
+A list of books/tutorials that I will continually add to that I will read/finish and learn throughout my career
 
 [Bento](https://bento.io/home)
 
